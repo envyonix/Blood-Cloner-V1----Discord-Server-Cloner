@@ -96,4 +96,5 @@ Encountered a problem? Open a new issue [here](https://github.com/Envyonix/Blood
 ---
 
 **Developed by Envyonix** | Blood Cloner V1
+Based off of Lua Copier
 
